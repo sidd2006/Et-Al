@@ -201,7 +201,7 @@ export default function About() {
             </p>
             <div className="flex justify-center gap-6">
               <a
-                href="https://instagram.com/research_et_al"
+                href="https://www.instagram.com/etal.pesu/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-primary/20 backdrop-blur-md rounded-xl border border-primary/40 px-8 py-4 text-primary font-semibold hover:bg-primary/30 hover:border-primary/60 transition-all duration-300 hover:scale-105 inline-flex items-center gap-2"
