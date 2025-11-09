@@ -41,8 +41,11 @@ export default function Navbar() {
             <span className="text-primary">et AL</span>
           </div>
           <div className="flex space-x-8">
-            <a href="/" className="text-primary font-semibold transition-colors hover:text-primary-light">
+            <a href="/" className="text-white font-semibold transition-colors hover:text-primary">
               Home
+            </a>
+            <a href="/about" className="text-white font-semibold transition-colors hover:text-primary">
+              About Us
             </a>
           </div>
         </div>
