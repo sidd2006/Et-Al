@@ -138,3 +138,32 @@ body {
   opacity: 0;
   animation: fade-in 2.5s ease-out forwards;
 }
+
+/* --- Article Typography Styling --- */
+.prose {
+  --tw-prose-body: #d1d5db;
+  --tw-prose-headings: #a78bfa;
+  --tw-prose-links: #c084fc;
+  --tw-prose-bold: #e5e7eb;
+  --tw-prose-quotes: #9ca3af;
+  line-height: 1.8;
+}
+
+.prose img {
+  border-radius: 0.75rem;
+  margin: 2rem 0;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.prose p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
