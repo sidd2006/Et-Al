@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import Navbar from "@/components/Navbar";
 
 export default function Home() {
   return (
@@ -68,51 +69,17 @@ export default function Home() {
               >
                 Explore Articles
               </Link>
-              <a
-                href="#footer"
+              <Link
+                href="/about"
                 className="px-8 py-4 border-2 border-purple-500 text-purple-400 font-bold rounded-full hover:bg-purple-500/10 transition-all duration-300 inline-block"
               >
                 Learn More
-              </a>
+              </Link>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Features Section */}
-      <section className="relative py-20 px-4 sm:px-6 lg:px-8 border-t border-purple-500/20">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-white">What We Offer</h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            {[
-              {
-                title: "Cutting-Edge Research",
-                description: "Explore the latest research articles on emerging technologies and scientific breakthroughs",
-                icon: "🔬"
-              },
-              {
-                title: "Expert Insights",
-                description: "Learn from experienced researchers and industry professionals sharing their knowledge",
-                icon: "💡"
-              },
-              {
-                title: "Community Driven",
-                description: "Join a vibrant community of learners and researchers passionate about discovery",
-                icon: "🌍"
-              }
-            ].map((feature, index) => (
-              <div
-                key={index}
-                className="group p-8 rounded-2xl border border-purple-500/20 bg-gradient-to-br from-gray-900/50 to-gray-800/30 hover:from-gray-800/70 hover:to-gray-700/50 transition-all duration-500 hover:border-purple-500/50 hover:shadow-xl hover:shadow-purple-500/10"
-              >
-                <div className="text-4xl mb-4 group-hover:scale-125 transition-transform duration-300">{feature.icon}</div>
-                <h3 className="text-xl font-bold text-white mb-2 group-hover:text-purple-300 transition-colors">{feature.title}</h3>
-                <p className="text-gray-400 group-hover:text-gray-300 transition-colors">{feature.description}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* Footer */}
       <footer id="footer" className="py-8 px-4 sm:px-6 lg:px-8 border-t border-purple-500/20 bg-black/50 backdrop-blur-sm mt-20">
