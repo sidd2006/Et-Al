@@ -1,12 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
+import Navbar from "@/components/Navbar";
 import { getAllArticles } from "@/lib/articles";
 
 export default function ArticlesPage() {
   const articles = getAllArticles();
 
   return (
-    <main className="min-h-screen bg-gradient-to-b from-gray-950 via-gray-900 to-gray-950 py-20 px-4 sm:px-6 lg:px-8">
+    <main className="min-h-screen bg-gradient-to-b from-gray-950 via-gray-900 to-gray-950 pt-28 py-20 px-4 sm:px-6 lg:px-8">
+      <Navbar />
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="mb-16 text-center">
