@@ -2,12 +2,14 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 
 export default function Navbar() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [isHovering, setIsHovering] = useState(false);
   const [activeLink, setActiveLink] = useState('home');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const pathname = usePathname();
 
   const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -16,6 +18,13 @@ export default function Navbar() {
       y: e.clientY - rect.top,
     });
   };
+
+  useEffect(() => {
+    if (!pathname) return;
+    if (pathname.startsWith('/articles')) setActiveLink('articles');
+    else if (pathname.startsWith('/about')) setActiveLink('about');
+    else setActiveLink('home');
+  }, [pathname]);
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 px-4 sm:px-6 py-6">
@@ -49,7 +58,6 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-1">
             <Link 
               href="/" 
-              onClick={() => setActiveLink('home')}
               className={`px-4 py-2 rounded-full font-semibold transition-all duration-300 ${ activeLink === 'home' 
                   ? 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-lg shadow-purple-500/50' 
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
@@ -59,7 +67,6 @@ export default function Navbar() {
             </Link>
             <Link 
               href="/about" 
-              onClick={() => setActiveLink('about')}
               className={`px-4 py-2 rounded-full font-semibold transition-all duration-300 ${ activeLink === 'about' 
                   ? 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-lg shadow-purple-500/50' 
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
@@ -69,7 +76,6 @@ export default function Navbar() {
             </Link>
             <Link 
               href="/articles" 
-              onClick={() => setActiveLink('articles')}
               className={`px-4 py-2 rounded-full font-semibold transition-all duration-300 ${ activeLink === 'articles' 
                   ? 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-lg shadow-purple-500/50' 
                   : 'text-gray-300 hover:text-white hover:bg-white/10'
