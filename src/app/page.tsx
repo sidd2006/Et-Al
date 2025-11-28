@@ -34,7 +34,7 @@ export default function Home() {
           <div className="text-center">
             {/* Logo with enhanced animation */}
             <div className="mb-12 flex justify-center">
-              <div className="relative w-72 h-72 sm:w-80 sm:h-80 animate-float-5 group">
+              <div className="relative w-72 h-72 sm:w-80 sm:h-80 group">
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full blur-2xl opacity-0 group-hover:opacity-30 transition-opacity duration-500"></div>
                 <Image
                   src="/logo.jpeg"
