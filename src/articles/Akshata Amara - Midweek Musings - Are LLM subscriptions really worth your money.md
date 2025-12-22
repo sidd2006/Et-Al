@@ -1,4 +1,4 @@
-﻿---
+**﻿---**
 title: "UNPACKING THE BLACK BOX: HOW WE MEASURE & RUN LLMS"
 date: "2025-11-17T13:50:44.892Z"
 ---
@@ -29,7 +29,7 @@ Measuring the Magic: Beyond the Hype - How LLMs Are Evaluated
 
 The buzz around the release of a new LLM seems to focus on math exam scores, or codeforces rankings, but how do they actually work, and are they relevant to an average user? In reality, evaluation involves a range of benchmarks that assess a model's holistic capabilities, focusing on practical applications beyond professional course exams.
 
-For general knowledge and question answering, benchmarks like [**MMLU (Massive Multitask Language Understanding)**](https://www.google.com/search?q=https://crfm.stanford.edu/helm/latest/%3Fgroup%3Dmmlu) evaluates performance across 57 diverse subjects, ranging from elementary mathematics and US history to computer science and law. 1 For reasoning and problem-solving, [**BIG-bench Hard**](https://github.com/google/BIG-bench/blob/main/docs/doc.md) challenges models with complex tasks that require multi-step reasoning, symbolic manipulation, and extrapolation of patterns. 2 Text generation quality is evaluated using metrics like [**BLEU**](https://medium.com/data-science/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213) **(**[**Bilingual Evaluation Understudy**](https://towardsdatascience.com/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b/)**)**, which checks how many short sequences of words (like pairs or triplets) the model's text has in common with human-written text, and [**ROUGE (Recall-Oriented Understudy for Gisting Evaluation)**](https://towardsdatascience.com/introduction-to-text-summarization-with-rouge-scores-84140c64b471/), which focuses on how much of the important information from reference summaries the model's text has.
+**Introduction: to-text-summarization-with-rouge-scores-84140c64b471/), which focuses on how much of the important information from reference summaries the model's text has.**
 
 Task-specific benchmarks, such as those for summarization, translation, or code generation (e.g., [**HumanEval**](https://arxiv.org/pdf/2107.03374), ensure models perform well in practical use cases. Contextual evaluation assesses a model's ability to handle nuanced language. Bias and fairness are measured through targeted tests that evaluate responses to diverse and sensitive prompts. Robustness is tested by evaluating performance with noisy or adversarial inputs. Efficiency is quantified by measuring computational resource usage, including time and memory.
 
@@ -78,7 +78,3 @@ Image credits
 *   [https://openai.com/index/hello-gpt-4o/](https://openai.com/index/hello-gpt-4o/)
 *   [https://www.anthropic.com/news/claude-3-family](https://www.anthropic.com/news/claude-3-family)
 *   [https://huggingface.co/blog/object-detection-leaderboard](https://huggingface.co/blog/object-detection-leaderboard)
-
-
-
-

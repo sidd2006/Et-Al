@@ -1,17 +1,15 @@
 ---
-title: "SOLAR-POWERED JELLYFISH ROBOTS VS. THE GREAT PACIFIC GARBAGE PATCH (GPGP)"
-date: "2025-11-22T05:14:56.503Z"
+title: "Rupa_Dhriti, Solar powered Jellybots VS GPGP"
+date: "2025-12-22T15:32:32.048Z"
 ---
 
-**SOLAR-POWERED JELLYFISH ROBOTS VS. THE GREAT PACIFIC GARBAGE PATCH (GPGP)**
+**Solar-Powered Jellyfish Robots vs. the Great Pacific Garbage Patch (GPGP)**
 
-**Authors:** Rupa Laalasa Oruganti, Dhriti Kamani
+**Authors:** Rupa Laalasa Oruganti, Dhriti Kamani
 
 **Introduction: The GPGP Crisis**
 
 The Great Pacific Garbage Patch (GPGP), a swirling mass of plastic waste, now covers 1.6 million square kilometers—twice the size of Texas. Microplastics, which make up 94% of the debris, are nearly impossible to remove using traditional cleanup methods. Meanwhile, ghost nets(abandoned fishing gear)—continue to entangle marine life.
-
-![Image 1](/articles/solar_powered_jellybots/image1.png)
 
 In response, scientists at MIT and other leading institutions have developed a breakthrough solution: biomimetic jellyfish robots, or 'jellybots,' designed to filter microplastics while moving gracefully through the ocean. These soft, solar-powered robots mimic the energy-efficient propulsion of real jellyfish, making them ideal for long-term, autonomous ocean cleanup.
 
@@ -20,8 +18,6 @@ In response, scientists at MIT and other leading institutions have developed a b
 **Design & Materials: Mimicking Nature for Efficiency**
 
 Jellyfish are the most energy-efficient swimmers on Earth, moving with minimal effort. Their soft, pulsating movement reduces drag, making them an ideal blueprint for biomimetic ocean cleanup robots.
-
-![Image 2](/articles/solar_powered_jellybots/image2.png)
 
 Key Design Features:
 
@@ -32,8 +28,6 @@ Key Design Features:
 **How Jellybots Move: Propulsion Without Propellers**
 
 Unlike traditional underwater robots that use propellers (which disturb marine life and consume excess energy), jellybots move like real jellyfish:
-
-![Image 3](/articles/solar_powered_jellybots/image3.png)
 
 *   Electroactive Polymer Actuators (EAPs): Soft materials that contract and expand when electrically stimulated, replicating jellyfish bell movements.
 *   Vortex Ring Effect: Each pulsation creates a low-pressure wake, allowing the bot to glide efficiently through water with 30% less energy use.
@@ -58,8 +52,6 @@ These robots don’t operate alone—they coordinate in swarms to maximize effic
 **Real-World Testing: GPGP Cleanup Results**
 
 *   In a 2024 pilot deployment, 50 jellybots were released into the eastern GPGP for three months. The results:
-
-![Image 4](/articles/solar_powered_jellybots/image4.png)
 
 ✔ 1.4 metric tons of plastic removed—equivalent to 280,000 plastic bottles.  
 ✔ 12 ghost nets recovered, preventing further marine life entanglement.  

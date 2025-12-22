@@ -2,14 +2,13 @@
 title: "DEATH ON DEMAND? THE SCIENCE, ETHICS, AND FUTURE OF ASSISTED SUICIDE TECHNOLOGIES"
 date: "2025-11-17T13:50:44.959Z"
 ---
-
 **Death on Demand? The Science, Ethics, and Future of Assisted Suicide Technologies**
 
-**~Adithy S, Shirali Rajaneesh**
+**Authors:** ~Adithy S, Shirali Rajaneesh
 
-**Introduction**
+**Introduction:**
 
-The evolution and practices of end-of-life care and “the right to die” reflect the complexities of morality, dignity, and compassion.![]
+The evolution and practices of end-of-life care and “the right to die” reflect the complexities of morality, dignity, and compassion.
 ![Image 1](/articles/deathondemand/deathondemand1.png)
 
 
@@ -27,8 +26,7 @@ These technological innovations compel society to answer the questions: Is death
 
 **1\. Suicide Pods (Sarco)**
 
-The Potential Role Of Technology In Euthanasia And Assisted Death![Image 2](/articles/deathondemand/deathondemand2.png)
-![Image 3](/articles/deathondemand/deathondemand3.png)
+The Potential Role Of Technology In Euthanasia And Assisted Death![Image 2](/articles/deathondemand/deathondemand2.png) ![Image 3](/articles/deathondemand/deathondemand3.png)
 
 
 **_Fig 2. Sarco Pods – Exit International_**
