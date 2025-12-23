@@ -6,22 +6,26 @@ export default function About() {
     {
       name: "Senior Mentors",
       role: "Guidance & Leadership",
-      description: "Experienced students guiding research projects"
+      description: "Experienced students guiding research projects",
+      icon: "🎓"
     },
     {
       name: "Alumni Network",
       role: "Industry Insights",
-      description: "Former members sharing real-world expertise"
+      description: "Former members sharing real-world expertise",
+      icon: "🌐"
     },
     {
       name: "Faculty Advisors",
       role: "Academic Support",
-      description: "Faculty members providing academic guidance"
+      description: "Faculty members providing academic guidance",
+      icon: "👨‍🏫"
     },
     {
       name: "Research Interns",
       role: "Active Researchers",
-      description: "Students working on innovative projects"
+      description: "Students working on innovative projects",
+      icon: "🔬"
     }
   ];
 
@@ -162,7 +166,7 @@ export default function About() {
                   className="bg-black/40 backdrop-blur-md rounded-2xl border border-primary/30 p-6 text-center hover:border-primary/50 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20"
                 >
                   <div className="w-20 h-20 bg-primary/20 rounded-full mx-auto mb-4 flex items-center justify-center">
-                    <div className="w-16 h-16 bg-primary/30 rounded-full"></div>
+                    <span className="text-4xl">{member.icon}</span>
                   </div>
                   <h3 className="text-xl font-bold text-primary mb-2">{member.name}</h3>
                   <p className="text-white/60 text-sm mb-2">{member.role}</p>

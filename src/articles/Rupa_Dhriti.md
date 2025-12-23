@@ -1,8 +1,10 @@
 ---
-title: "Rupa_Dhriti, Solar powered Jellybots VS GPGP"
+title: "SOLAR POWERED JELLYBOTS VS GPGP"
 date: "2025-12-22T15:32:32.048Z"
 ---
+# **SOLAR POWERED JELLYBOTS VS GPGP**
 
+**By Rupa and Dhriti**
 
 ## Introduction: The GPGP Crisis
 

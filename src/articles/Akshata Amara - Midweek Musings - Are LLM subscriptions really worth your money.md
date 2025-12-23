@@ -1,10 +1,10 @@
-**﻿---**
+---
 title: "UNPACKING THE BLACK BOX: HOW WE MEASURE & RUN LLMS"
 date: "2025-11-17T13:50:44.892Z"
 ---
 
-# Unpacking the Black Box:  
-How We Measure & run LLMs
+# **Unpacking the Black Box:**  
+**How We Measure & run LLMs**
 
 ~ Akshata Amara
 
@@ -33,11 +33,9 @@ The buzz around the release of a new LLM seems to focus on math exam scores, or 
 
 Task-specific benchmarks, such as those for summarization, translation, or code generation (e.g., [**HumanEval**](https://arxiv.org/pdf/2107.03374), ensure models perform well in practical use cases. Contextual evaluation assesses a model's ability to handle nuanced language. Bias and fairness are measured through targeted tests that evaluate responses to diverse and sensitive prompts. Robustness is tested by evaluating performance with noisy or adversarial inputs. Efficiency is quantified by measuring computational resource usage, including time and memory.
 
-Human evaluation remains crucial for assessing quality and safety, complementing automated metrics. Ultimately, LLM evaluation goes beyond flashy exam scores; it uses diverse benchmarks to measure real-world performance, context awareness, fairness, and efficiency.Â 
+Human evaluation remains crucial for assessing quality and safety, complementing automated metrics. Ultimately, LLM evaluation goes beyond flashy exam scores; it uses diverse benchmarks to measure real-world performance, context awareness, fairness, and efficiency.
 
- _musing/image$($script:count).png)" 
-
-IMG: Standard benchmarks for the most popular models currently
+![Standard benchmarks for the most popular models currently](/articles/midweek_musing/image4.png)
 
 **TL;DR:** Standardized tests and human evaluation measure how well LLMs perform in human-like writing, school level sciences, translation, etc., with a focus on practical applications and responsible use.
 
@@ -47,11 +45,7 @@ Running LLMs on personal hardware requires powerful GPUs and sufficient RAM. The
 
 _Want to actually download and run a model through your code?_
 
-_
-
-![Image 5](/articles/midweek_musing/image5.png) _musing/image$($script:count).png)" _
-
-_IMG: New hugging face leaderboard Â  Â  IMG: graphic desc. HF content_
+![New Hugging Face leaderboard](/articles/midweek_musing/image5.png)
 
 Consider exploring [HuggingFace](https://huggingface.co/), a platform which helps you pick and download a pre-trained ML model to run on the hardware of your choosing, including PCs with a basic 8 GB RAM and up; just note that these models will probably have high latency and lower context window length. Hereâ€™s a [guide](https://towardsdatascience.com/choosing-and-implementing-hugging-face-models-026d71426fbe/) to downloading models on HuggingFace.
 

@@ -2,9 +2,9 @@
 title: "DEATH ON DEMAND? THE SCIENCE, ETHICS, AND FUTURE OF ASSISTED SUICIDE TECHNOLOGIES"
 date: "2025-11-17T13:50:44.959Z"
 ---
-**Death on Demand? The Science, Ethics, and Future of Assisted Suicide Technologies**
+# **Death on Demand? The Science, Ethics, and Future of Assisted Suicide Technologies**
 
-**Authors:** ~Adithy S, Shirali Rajaneesh
+**By Adithy S and Shirali Rajaneesh**
 
 **Introduction:**
 
@@ -31,19 +31,24 @@ The Potential Role Of Technology In Euthanasia And Assisted Death![Image 2](/art
 
 **_Fig 2. Sarco Pods – Exit International_**
 
-**How It Works  
-**The Sarco pod, developed by Australian euthanasia advocate Philip Nitschke and Exit International, is a 3D-printed capsule that uses nitrogen gas to rapidly reduce oxygen levels, inducing unconsciousness within 60 seconds and death within 10 minutes. Users enter the pod, answer pre-programmed questions (e.g., confirming identity and intent), and activate the process autonomously, bypassing direct physician involvement. This design aims to "de-medicalize" death, granting individuals full control over their final moments.
+**How It Works**
 
-**Current Research  
-**Sarco’s deployment in Switzerland has sparked legal controversies, particularly around "death tourism" and the ethics of machine-facilitated suicide. In 2024, Swiss authorities arrested facilitators of its first recorded use, highlighting tensions between technological autonomy and regulatory frameworks. Meanwhile, researchers at the University of Zurich are testing AI algorithms to assess mental capacity, aiming to replace psychiatric evaluations with unbiased, data-driven assessments. Critics argue that AI lacks the nuance to detect coercion or transient despair, risking premature deaths.
+The Sarco pod, developed by Australian euthanasia advocate Philip Nitschke and Exit International, is a 3D-printed capsule that uses nitrogen gas to rapidly reduce oxygen levels, inducing unconsciousness within 60 seconds and death within 10 minutes. Users enter the pod, answer pre-programmed questions (e.g., confirming identity and intent), and activate the process autonomously, bypassing direct physician involvement. This design aims to "de-medicalize" death, granting individuals full control over their final moments.
+
+**Current Research**
+
+Sarco's deployment in Switzerland has sparked legal controversies, particularly around "death tourism" and the ethics of machine-facilitated suicide. In 2024, Swiss authorities arrested facilitators of its first recorded use, highlighting tensions between technological autonomy and regulatory frameworks. Meanwhile, researchers at the University of Zurich are testing AI algorithms to assess mental capacity, aiming to replace psychiatric evaluations with unbiased, data-driven assessments. Critics argue that AI lacks the nuance to detect coercion or transient despair, risking premature deaths.
 
 **2\. Non-Hallucinogenic Psychedelic Analogs**
 
-**How It Works  
-**Drugs like COMP360, a synthetic psilocybin analog, target serotonin receptors to alleviate existential distress without inducing hallucinations. By modulating the default mode network—a brain region linked to self-identity—these compounds reduce end-of-life anxiety and reframe perceptions of mortality.
+**How It Works**
 
-**Latest Updates  
-**Phase II trials at Johns Hopkins (2023) demonstrated a 40% reduction in anxiety among terminal patients, though debates persist about whether removing hallucinations diminishes therapeutic efficacy. Critics, including researchers in _Nature Neuroscience_ (2024), argue that "ego dissolution" (a hallucination-induced loss of self) is critical for lasting psychological shifts, questioning the value of non-hallucinogenic variants.  
+Drugs like COMP360, a synthetic psilocybin analog, target serotonin receptors to alleviate existential distress without inducing hallucinations. By modulating the default mode network—a brain region linked to self-identity—these compounds reduce end-of-life anxiety and reframe perceptions of mortality.
+
+**Latest Updates**
+
+Phase II trials at Johns Hopkins (2023) demonstrated a 40% reduction in anxiety among terminal patients, though debates persist about whether removing hallucinations diminishes therapeutic efficacy. Critics, including researchers in _Nature Neuroscience_ (2024), argue that "ego dissolution" (a hallucination-induced loss of self) is critical for lasting psychological shifts, questioning the value of non-hallucinogenic variants.
+
 **Part 2: The Intrigues of Suicide Pods**
 
 **1\. The Cool Factor**

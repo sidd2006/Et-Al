@@ -3,13 +3,9 @@ title: "HERALD OF THE QUANTUM AGE: MAJORANA 1"
 date: "2025-11-28T17:08:41.881Z"
 image: "/articles/darshana Muraly/image1.png"
 ---
-**HERALD OF THE QUANTUM AGE: MAJORANA 1**
+# **HERALD OF THE QUANTUM AGE: MAJORANA 1**
 
 **By Darshana Muraly and Neha Nair**
-
-![Herald of the Quantum Age]
-
-
 
 **Introduction: of the groundbreaking quantum chip Majorana 1, Microsoft ushers in the newest age – The Quantum Age.**
 
