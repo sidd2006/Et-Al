@@ -369,7 +369,7 @@ async def index():
             }
             const formData = new FormData();
             formData.append('file', fileInput.files[0]);
-            output.textContent = 'Processing... (first time can take a while)';
+            output.textContent = 'Processing...';
 
             const res = await fetch('/analyze', {
               method: 'POST',
